@@ -19,7 +19,11 @@ travel pass holders who are locally stranded individuals arranged chronologicall
 of application, and make a tally of the total number of travel pass holders that are leaving or
 going home to Metro Manila.
 
+
+### Languages and Tools Used:
 The program was written in Java Programming Language using
 Netbeans IDE, and uses MySQL for the storage of the information.
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 
